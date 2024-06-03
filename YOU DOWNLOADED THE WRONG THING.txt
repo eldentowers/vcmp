@@ -1,4 +1,4 @@
 If you're reading this, you downloaded the wrong file!
-You've downloaded the source code to this repository (which you don't want).
+You've downloaded the source code to this repository (which you probably don't want).
 
 Delete this, go back to the release, and download the ".mrpack" file instead (whatever doesn't say "Source code")
